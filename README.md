@@ -58,6 +58,19 @@ I help businesses launch maintainable, production-ready systems: from complex Wi
 
 This project demonstrates enterprise-level Wix engineering: API-first architecture, operational automation, and custom backend logic packaged into a premium, business-focused digital product.
 
+### WIXFULL - Wix Studio Templates Marketplace Platform
+
+- **Website:** [wixfull.com](https://www.wixfull.com)
+- Custom marketplace-style Wix Studio platform where users can browse, evaluate, purchase, and activate templates in their own accounts.
+- Server-side business logic for catalog workflows, account actions, automation events, and operational management.
+- Advanced blog customization (structure, presentation, and interaction behavior) beyond standard Wix defaults.
+- Custom CSS and JavaScript layers for premium UI behavior, component control, and conversion-focused storefront flows.
+- Payment API integrations for checkout and purchase operations.
+- Custom authentication architecture, including Google sign-in/registration flows implemented as tailored auth experience (not default Wix member flow).
+- Personal cabinet/account area with purchase visibility, settings, and lifecycle actions for template customers.
+
+This project reflects product-grade Wix engineering with full-stack customization, commercial platform logic, and integration-first architecture focused on scalable digital sales.
+
 ---
 
 ## Collaboration
