@@ -35,7 +35,7 @@ I help businesses launch maintainable, production-ready systems: from complex Wi
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Binance Futures Desk Bot - Public Showcase
 
@@ -45,6 +45,18 @@ I help businesses launch maintainable, production-ready systems: from complex Wi
 
 - **Repository:** [yelyzavetadanko/binance-futures-desk-bot](https://github.com/yelyzavetadanko/binance-futures-desk-bot)
 - **Live UI:** [binance-railway-production.up.railway.app/ui/index.html](https://binance-railway-production.up.railway.app/ui/index.html)
+
+### Vanguard Automotive - Advanced Wix Studio Platform
+
+- **Website:** [vanguard-automotive.be](https://www.vanguard-automotive.be)
+- Full custom Wix Studio implementation for a high-conversion automotive sales business.
+- API integration with Mobile.de marketplace for inventory synchronization and listing automation.
+- Website vehicle uploads trigger marketplace-ready ad creation flows for external channels.
+- Automated publishing workflows for sales content distribution to Facebook and Instagram.
+- Multiple internal admin dashboards for inventory operations, content control, lead routing, and sales workflow management.
+- Custom design components and dynamic page functionality built with Velo and server-side logic, including modules not achievable with standard Wix-only tooling.
+
+This project demonstrates enterprise-level Wix engineering: API-first architecture, operational automation, and custom backend logic packaged into a premium, business-focused digital product.
 
 ---
 
