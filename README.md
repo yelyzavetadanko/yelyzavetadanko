@@ -7,6 +7,7 @@ I help businesses launch maintainable, production-ready systems: from complex Wi
 [![Email](https://img.shields.io/badge/Email-yelizaveta.danko%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:yelizaveta.danko@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Binance%20Desk%20Showcase-2563EB)](https://github.com/yelyzavetadanko/binance-futures-desk-bot)
 [![Live Preview](https://img.shields.io/badge/Live%20Demo-Control%20Center-0EA5E9)](https://binance-railway-production.up.railway.app/ui/index.html)
+[![Booking Demo](https://img.shields.io/badge/Live%20Demo-Wix%20Booking%20Wizard-DE7A45)](https://yelyzavetadanko.github.io/wix-studio-booking-demo/)
 
 ---
 
@@ -37,7 +38,7 @@ I help businesses launch maintainable, production-ready systems: from complex Wi
 
 ## Featured Projects
 
-### Binance Futures Desk Bot - Public Showcase
+### Binance Futures Desk Bot — Public Showcase
 
 [![Type](https://img.shields.io/badge/Type-Trading%20Control%20Center-2563EB)](https://github.com/yelyzavetadanko/binance-futures-desk-bot)
 [![Mode](https://img.shields.io/badge/Access-Public%20View%20%7C%20Owner%20Write-0EA5E9)](https://binance-railway-production.up.railway.app/ui/index.html)
@@ -49,7 +50,29 @@ I help businesses launch maintainable, production-ready systems: from complex Wi
 
 **Explore:** [Repository](https://github.com/yelyzavetadanko/binance-futures-desk-bot) · [Live UI](https://binance-railway-production.up.railway.app/ui/index.html)
 
-### Vanguard Automotive - Advanced Wix Studio Platform
+### Surf Hospitality Booking Platform — Interactive Wix Studio Demo
+
+[![Type](https://img.shields.io/badge/Type-Multi--flow%20Booking%20Engine-DE7A45)](https://github.com/yelyzavetadanko/wix-studio-booking-demo)
+[![Flows](https://img.shields.io/badge/Flows-Stays%20%7C%20Packages%20%7C%20Retreats%20%7C%20Enquiries-0F766E)](https://yelyzavetadanko.github.io/wix-studio-booking-demo/)
+[![Stack](https://img.shields.io/badge/Stack-Wix%20Velo%20%7C%20Custom%20Elements%20%7C%20Shadow%20DOM-111827)](https://github.com/yelyzavetadanko/wix-studio-booking-demo)
+[![Admin](https://img.shields.io/badge/Admin-Bookings%20%7C%20Sessions%20%7C%20Availability-7C3AED)](https://yelyzavetadanko.github.io/wix-studio-booking-demo/admin/stays.html)
+
+Production-grade **Wix Studio booking system** for a surf hospitality client — packaged as a **clickable public portfolio demo** (no production CMS; fixture data + browser session only).
+
+**Guest wizard**
+- 9 booking flows: B&B, Surf & Stay, packages, activity enquiries, retreats.
+- Custom Element UI (Shadow DOM, design tokens), multi-step wizard, room auto-matching, addons, cart.
+- Availability and pricing logic ported from Velo backend modules.
+
+**Admin dashboards**
+- Stay bookings & enquiries, package sessions, retreat sessions, inventory availability grid.
+- Demo seed data so visitors can expand records, change statuses, and open availability modals (open / closed / hold).
+
+**Architecture highlight:** same Custom Elements as production → demo host bridge → browser runtime with Wix shims → JSON fixtures.
+
+**Explore:** [Live demo](https://yelyzavetadanko.github.io/wix-studio-booking-demo/) · [Repository](https://github.com/yelyzavetadanko/wix-studio-booking-demo) · [Admin preview](https://yelyzavetadanko.github.io/wix-studio-booking-demo/admin/stays.html)
+
+### Vanguard Automotive — Advanced Wix Studio Platform
 
 [![Industry](https://img.shields.io/badge/Industry-Automotive-1D4ED8)](https://www.vanguard-automotive.be)
 [![Integrations](https://img.shields.io/badge/Integrations-Mobile.de%20%7C%20Meta%20Publishing-0F766E)](https://www.vanguard-automotive.be)
@@ -64,9 +87,10 @@ I help businesses launch maintainable, production-ready systems: from complex Wi
 - Custom design components and dynamic page functionality built with Velo and server-side logic, including modules not achievable with standard Wix-only tooling.
 
 This project demonstrates enterprise-level Wix engineering: API-first architecture, operational automation, and custom backend logic packaged into a premium, business-focused digital product.
+
 **Explore:** [Website](https://www.vanguard-automotive.be)
 
-### WIXFULL - Wix Studio Templates Marketplace Platform
+### WIXFULL — Wix Studio Templates Marketplace Platform
 
 [![Type](https://img.shields.io/badge/Type-Wix%20Studio%20Templates%20Marketplace-2563EB)](https://www.wixfull.com)
 [![Auth](https://img.shields.io/badge/Auth-Custom%20Google%20Sign--In-0F766E)](https://www.wixfull.com)
@@ -82,6 +106,7 @@ This project demonstrates enterprise-level Wix engineering: API-first architectu
 - Personal cabinet/account area with purchase visibility, settings, and lifecycle actions for template customers.
 
 This project reflects product-grade Wix engineering with full-stack customization, commercial platform logic, and integration-first architecture focused on scalable digital sales.
+
 **Explore:** [Website](https://www.wixfull.com)
 
 ---
