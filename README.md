@@ -8,6 +8,7 @@ I help businesses launch maintainable, production-ready systems: from complex Wi
 [![Portfolio](https://img.shields.io/badge/Portfolio-Binance%20Desk%20Showcase-2563EB)](https://github.com/yelyzavetadanko/binance-futures-desk-bot)
 [![Live Preview](https://img.shields.io/badge/Live%20Demo-Control%20Center-0EA5E9)](https://binance-railway-production.up.railway.app/ui/index.html)
 [![Booking Demo](https://img.shields.io/badge/Live%20Demo-Wix%20Booking%20Wizard-DE7A45)](https://yelyzavetadanko.github.io/wix-studio-booking-demo/)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Type%20Translate-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/klonnlegnegdpaeaanoakoheaclbomap)
 
 ---
 
@@ -34,6 +35,13 @@ I help businesses launch maintainable, production-ready systems: from complex Wi
 - Structure data for visibility, traceability, and scaling.
 - Deliver maintainable systems for long-term growth.
 
+### Browser Extensions (Chrome / Opera)
+`Manifest V3` `Shadow DOM` `Content Scripts` `REST API` `Subscription Billing`
+
+- Ship production browser extensions with per-site permissions and secure backend APIs.
+- Build real-time UX overlays, settings panels, and store-ready listing assets.
+- Integrate cloud translation, usage quotas, checkout, and legal/compliance pages.
+
 ---
 
 ## Featured Projects
@@ -49,6 +57,28 @@ I help businesses launch maintainable, production-ready systems: from complex Wi
 - Protected write model (public view + owner-only changes).
 
 **Explore:** [Repository](https://github.com/yelyzavetadanko/binance-futures-desk-bot) · [Live UI](https://binance-railway-production.up.railway.app/ui/index.html)
+
+### Type Translate — Published Chrome Extension
+
+[![Chrome Web Store](https://img.shields.io/badge/Live-Chrome%20Web%20Store-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/klonnlegnegdpaeaanoakoheaclbomap)
+[![Version](https://img.shields.io/badge/Version-1.0.15-111827)](https://chromewebstore.google.com/detail/klonnlegnegdpaeaanoakoheaclbomap)
+[![Stack](https://img.shields.io/badge/Stack-MV3%20%7C%20Node.js%20%7C%20Railway-0EA5E9)](https://typo-translator-production.up.railway.app)
+[![Billing](https://img.shields.io/badge/Billing-Trial%20%2B%20Pro%20(WayForPay)-7C3AED)](https://typo-translator-production.up.railway.app/terms)
+
+Production **Manifest V3** extension for real-time translation while typing and on text selection — **published on the [Chrome Web Store](https://chromewebstore.google.com/detail/klonnlegnegdpaeaanoakoheaclbomap)** (Opera listing in progress).
+
+**Product**
+- Typing overlay with one-click insert; compact popup on text selection.
+- Per-site enablement via optional host permissions (user grants access per domain).
+- Shadow DOM UI, skeleton loading states, subdomain-aware content scripts.
+- Trial quota by device fingerprint; Pro plans with monthly/yearly checkout.
+
+**Backend & ops**
+- Node.js API on Railway: Azure Translator proxy, usage limits, magic-link auth.
+- WayForPay subscription billing, admin dashboard, refund/usage history tooling.
+- Legal pages (Privacy, Terms, Refund, Support) served from production API.
+
+**Explore:** [Chrome Web Store listing](https://chromewebstore.google.com/detail/klonnlegnegdpaeaanoakoheaclbomap) · [API / Legal hub](https://typo-translator-production.up.railway.app/legal)
 
 ### Surf Hospitality Booking Platform — Interactive Wix Studio Demo
 
@@ -118,6 +148,7 @@ Open to project-based and long-term collaboration on:
 - Custom backend systems
 - Wix Studio / Velo advanced development
 - Dashboard and internal platform builds
+- Browser extensions (Chrome, Opera, Edge)
 
 **Contact**
 - **Upwork:** [upwork.com/freelancers/yelyzavetadanko](https://www.upwork.com/freelancers/yelyzavetadanko)
